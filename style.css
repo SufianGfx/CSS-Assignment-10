@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section-2 {
+    background-image: url("images/Section2img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.read-btn {
+    background-color: #745cf9;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+}
+
+.dwn-btn {
+    background: transparent;
+    font-weight: bold;
+    color: white;
+    border: 2px solid white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.section-3 {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.section-4 {
+    width: 100%;
+    background: #f5f5f5;
+}
+
+.section-5 {
+    background-image: url("images/Section5img.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100vw;
+    height: 60vh;
+}
+
+.section-8 {
+    background-image: url("images/Section8.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    width: 100vw;
+    height: 75vh;
+    margin-top: 15px;
+}
+
+.sec8-img img {
+    border-radius: 80px;
+    width: 100px;
+}
+
+.sec8-img p {
+    font-weight: bold;
+}
+
+.sec9logos a img {
+    width: 20%;
+}
+
+.section-10 {
+    background-color: #f5f5f5;
+    width: 100%;
+}
+
+.footer {
+    background-color: black;
+    padding: 15px;
+    margin: 15px;
+}
+
+.footer a {
+    word-spacing: 20px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.footer p {
+    padding: 15px;
+    margin: 15px;
+}
